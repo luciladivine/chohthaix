@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eenooseeco.edwarder.com/sitemap.xml
